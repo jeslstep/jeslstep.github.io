@@ -1,6 +1,8 @@
 body {
-		background-color:black;
-		padding:100px;
+		margin: 0;padding: 100px;width: 100% !important;
+		}
+		.contain {
+		background-color: black;
 		}
 			p {
 			color:white; font-family:"arial", sans-serif;
