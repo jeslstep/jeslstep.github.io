@@ -1,8 +1,5 @@
 body {
-		margin: 0;padding: 100px;width: 100% !important;
-		}
-		.contain {
-		background-color: #000000;
+		margin: 50%;padding: 100px;width: 75% !important;
 		}
 			p {
 			color:white; font-family:"arial", sans-serif;
