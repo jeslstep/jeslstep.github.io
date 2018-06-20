@@ -1,6 +1,12 @@
 body {
-		margin: 0%;padding: 100px;width: 100% !important;
-}
+		margin: 0%;padding: 100px;width: 100%;
+	}
+		div {
+    			padding-top: 50px;
+    			padding-right: 30px;
+    			padding-bottom: 50px;
+    			padding-left: 80px;
+			}
 			p {
 			color:white; font-family:"arial", sans-serif;
 			}
