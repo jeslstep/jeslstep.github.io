@@ -2,10 +2,10 @@ body {
 		margin: 40%;padding: 30px;width: 70%;
 	}
 		div {
-    			padding-top: 50px;
-    			padding-right: 80px;
-    			padding-bottom: 50px;
-    			padding-left: 80px;
+    			padding-top: 30px;
+    			padding-right: 30px;
+    			padding-bottom: 30px;
+    			padding-left: 30px;
 			}
 			p {
 			color:white; font-family:"arial", sans-serif;
