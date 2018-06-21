@@ -1,6 +1,4 @@
 body {
-		margin: auto;padding: 30px;width: 50px;
-	}
 		#container {
 		width: 800px;
 		margin: auto;
@@ -24,3 +22,4 @@ body {
  			}
 		li {
 			color: white; font-family:"arial", sans-serif;
+	}
