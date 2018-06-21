@@ -2,22 +2,21 @@ body {
 		margin: 50px;padding: 30px;width: 50px;
 	}
 		div {
-    			padding-top: 50px;
-    			padding-right: 50px;
-    			padding-bottom: 50px;
-    			padding-left: 50px;
+    			width: 300px;
+    			padding: 25px;
+    			background-color: lightblue;
 			}
-			p {
+		p {
 			color:white; font-family:"arial", sans-serif;
 			}
-			h1 {
+		h1 {
 			color:white; color:white; font-family:"arial", sans-serif;
 			}
-			h2 {
+		h2 {
 			color:white; color:white; font-family:"arial", sans-serif;  
 			}
-			ul {
+		ul {
 			color: white; font-family:"arial", sans-serif;
  			}
-			li {
+		li {
 			color: white; font-family:"arial", sans-serif;
