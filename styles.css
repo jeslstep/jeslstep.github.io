@@ -4,6 +4,10 @@ body {
 		#container {
 		width: 800px;
 		margin: 70px auto 60px;
+		padding-top: 50px;
+ 		adding-right: 50px;
+   		padding-bottom: 50px;
+     		padding-left: 50px;
 		}
 		
 		p {
