@@ -1,20 +1,20 @@
-			p {
-			color:white; font-family:"arial", sans-serif;
-			}
-			h1 {
-			color:white; color:white; font-family:"arial", sans-serif;
-			}
-			h2 {
-			color:white; color:white; font-family:"arial", sans-serif;  
-			}
-			ul {
-			color: white; font-family:"arial", sans-serif;
- 			}
-			li {
-			color: white; font-family:"arial", sans-serif;
-			}
-			.container {
-			background-color: black;max-width: 900px;
-			padding: 100px;float:none;
-			margin:0 auto
-			}
+p {
+	color:white; font-family:"arial", sans-serif;
+}
+h1 {
+	color:white; color:white; font-family:"arial", sans-serif;
+}
+h2 {
+	color:white; color:white; font-family:"arial", sans-serif;  
+}
+ul {
+	color: white; font-family:"arial", sans-serif;
+ }
+li {
+	color: white; font-family:"arial", sans-serif;
+}
+.container {
+	background-color: black;max-width: 900px;
+	padding: 100px;float:none;
+	margin:0 auto
+}
