@@ -1,9 +1,9 @@
 body {
-		margin: 50px;padding: 30px;width: 50px;
+		margin: auto;padding: 30px;width: 50px;
 	}
 		#container {
 		width: 800px;
-		margin: 70px auto 60px;
+		margin: auto;
 		padding-top: 50px;
  		adding-right: 50px;
    		padding-bottom: 50px;
