@@ -10,16 +10,21 @@ body {
 		
 		p {
 			color:white; font-family:"arial", sans-serif;
+			padding: 30px;
 			}
 		h1 {
 			color:white; color:white; font-family:"arial", sans-serif;
+			padding: 30px;
 			}
 		h2 {
-			color:white; color:white; font-family:"arial", sans-serif;  
+			color:white; color:white; font-family:"arial", sans-serif;
+			padding: 30px;
 			}
 		ul {
 			color: white; font-family:"arial", sans-serif;
+			padding: 30px;
  			}
 		li {
 			color: white; font-family:"arial", sans-serif;
+			padding: 30px;
 	}
