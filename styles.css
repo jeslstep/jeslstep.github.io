@@ -1,5 +1,5 @@
 body {
-		margin: auto;padding: 30px;width: 50px;
+		margin: auto;float: none;
 	}
 		#container {
 		width: 800px;
